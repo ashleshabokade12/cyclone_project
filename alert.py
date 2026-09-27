@@ -1,5 +1,5 @@
 import numpy as np 
-#123 TRYING
+
 
 COASTAL_CITIES = [
     {"name": "Chennai", "lat": 13.0827, "lng": 80.2707},
